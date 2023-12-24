@@ -1,7 +1,4 @@
 # Spaceship Fight
-Developer: *[Puru Soni](https://github.com/puru-soni-04) (purusoni@buffalo.edu)*
-***
-
 A  two-player arcade-style spaceship shooter game. Made with Pygame.
 
 <img src="./screenshots/screenshot2.png" alt="screenshot1" width="200"/>
